@@ -11,7 +11,6 @@ const Modal = () => {
     >
       <div className="modal-content">
         {correct ? <h2>congrats!</h2> : <h2>failure!</h2>}
-        <h2>congrats!</h2>
         <p>
           You answered of {((correct / questions.length) * 100).toFixed(0)}%
           questions correctly
