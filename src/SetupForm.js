@@ -37,6 +37,7 @@ const SetupForm = () => {
               <option value="history">history</option>
               <option value="politics">politics</option>
               <option value="vehicles">vehicles</option>
+              <option value="gadgets">gadgets</option>
             </select>
           </div>
           {/*difficulty*/}

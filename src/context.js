@@ -6,6 +6,7 @@ const table = {
   history: 23,
   politics: 24,
   vehicles: 28,
+  gadgets: 30,
 };
 
 const API_ENDPOINT = "https://opentdb.com/api.php?";
